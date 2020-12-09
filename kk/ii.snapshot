@@ -19,6 +19,18 @@
           "componentType" : "INPUT_PORT",
           "concurrentlySchedulableTaskCount" : 1,
           "groupIdentifier" : "89eb7d86-7c14-344d-b375-d64046c3824e",
+          "identifier" : "93031c78-d0aa-3106-ab0a-84d2d050db86",
+          "name" : "jhu",
+          "position" : {
+            "x" : 671.0,
+            "y" : 391.0
+          },
+          "type" : "INPUT_PORT"
+        }, {
+          "allowRemoteAccess" : false,
+          "componentType" : "INPUT_PORT",
+          "concurrentlySchedulableTaskCount" : 1,
+          "groupIdentifier" : "89eb7d86-7c14-344d-b375-d64046c3824e",
           "identifier" : "2008456d-9e79-3a03-a091-17165d6e8d8b",
           "name" : "n ,nl",
           "position" : {
